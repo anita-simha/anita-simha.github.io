@@ -1,11 +1,16 @@
 ---
-title: "anita-simha.github.io"
+title: "Anita Simha"
+about:
+  template: trestles
+  image: profile-photo.jpg
 ---
 
-This is a Quarto website.
+I am a plant community ecologist and postdoctoral researcher at LSU. The theme of my research questions centers on how past events affect populations and communities in the present: how and why do plant communities with different histories of disturbance like fire differ in their responses to a next disturbance? When and how do initial conditions, like the order in which individuals arrive to a community, affect species interactions and their community-level consequences? My work often involves big field and greenhouse studies alongside many stellar undergraduate researchers.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I also aim to widen the scope of ecology to include investigation of the social and historical contexts in which we do our research. This involves developing and using interdisciplinary methods that can address issues simultaneously affecting nature, science, and people. I draw especially from feminist science and technology studies for these efforts.
 
-```{r}
-1 + 1
-```
+Mentorship and teaching are core, rewarding aspects of my work. I emphasize equity in these efforts, acknowledging that historical legacies play an important role in the human endeavor of ecology, too. I am committed to cross-disciplinary pedagogy, both for [the university classroom](https://sites.duke.edu/biodiversity/2020/08/31/idea-course-to-be-offered-spring-2021/) and the [broader community](https://www.hendersondispatch.com/archives/simha-speaks-of-vegetable-lambs-and-100-acre-trees/article_7ab636f3-a9bc-56ed-97dd-eeb3434384d7.html), that grounds ecology in its history.
+
+## Contact me
+
+Reach out to me with questions, ideas, or gossip at asimha \[at\] lsu \[dot\] edu.

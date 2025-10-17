@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+title-block-banner: img/clay-banner.jpg
+title-block-banner-color: white
+---
+
+## My Perspective on Teaching 
+
+Students of ecology have it hard! They must learn to speak the languages of mathematics (e.g., functional responses), computers ([`vegan` package]([https://cran.r-project.org/web/packages/vegan/index.html), anyone?), and metaphors (e.g., Red Queen dynamics) all at once. 
+Further, plenty of models and metaphors have come in and out of favor as our field has developed.
+*I equip students to interpret theoretical models, work with data in `R`, and understand ecological concepts. In addition, my teaching also considers historical legacies.*
+A historical approach to our discipline is useful because ecological knowledge has not developed linearly but in fits and starts out of raucous debate. 
+For example, the SLOSS debate, about whether a Single Large or Several Small ecological reserves are better for preserving biodiversity, continues to receive some attention in the literature 50 years on!
+
+## Teaching Beyond Disciplinary Ecology
+
+In addition to my strictly-ecology teaching (e.g., Biodiversity Science and Applications in Fall 2023), I've taught interdisciplinary courses (e.g., Race, Genomics, and Society) that get at the bidirectional relationships between nature, science, and people. 
+In a rapidly changing world, 
+
+For those interested in inequities in the history of biology, check out this graduate syllabus about Inclusion, Diversity, Equity, and Anti-racism in Biology, which I co-wrote with Raymond Allen and Lauren Carley. [link to syllabus](https://figshare.com/articles/online_resource/Introduction_to_Inclusion_Diversity_Equity_and_Anti-racism_in_Biology_Syllabus/13611287?file=26148977). 
+You can also check out [Resources for Inclusive Evolution Education](https://qubeshub.org/community/groups/rie2), for which I contributed to the module on Plasticity. 
