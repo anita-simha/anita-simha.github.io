@@ -1,0 +1,28 @@
+---
+title: "Publications"
+title-block-banner: img/llp-banner.jpg
+title-block-banner-color: white
+bibliography: bibliography.bib
+csl: nature.csl
+---
+
+
+\setlength{\cslentryspacingunit}{3\baselineskip} 
+    
+::: {.hidden}
+@Simha1_2025
+@Simha2_2025
+@Simha3_2025
+@Simha4_2025
+@Simha5_2025
+@Kim_2025
+@Simha1_2024
+@Simha2_2024
+@Simha_2022
+@O_Keeffe_2021
+@Wright_2020
+@Oono_2015
+:::
+
+::: {#refs}
+:::
