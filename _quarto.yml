@@ -2,20 +2,31 @@ project:
   type: website
 
 website:
-  title: "anita-simha.github.io"
+  title: "Anita Simha"
+#  logo: logo.png
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - research.qmd
+      - teaching.qmd
+      - publications.qmd
+    search: true
+  bread-crumbs: false
+  page-footer: 
+    background: light
+    left: ""
+    center:
+      - icon: "{{< iconify academicons:google-scholar >}}"
+        href: "https://scholar.google.com/citations?user=4y2-7_kAAAAJ&hl=en"
+
+  
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - lux
+      - theme.scss
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 
