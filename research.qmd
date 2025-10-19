@@ -2,6 +2,9 @@
 title: "Research"
 title-block-banner: img/fire-banner.jpg
 title-block-banner-color: white
+# toc: false
+sidebar:
+  collapse-level: 0
 ---
 
 Every project needs a good acronym! Read about some of my ongoing work below.
@@ -58,8 +61,10 @@ A key criterion for coexistence is mutual invasibility -- if each species can re
 
 ##### Not an acronym, just wordplay
 
+[\n\n]{.aside}
+
 ::: column-margin
-![Remains of the Robeson Mill in Duke Forest's Korstian Division](img/udf.jpg)
+![Remains of the Robeson Mill in Duke Forest's Korstian Division](img/udf.png)
 :::
 
 Human histories, particularly those of expulsion and exploitation, are intertwined with natural history and scientific history across the southeastern US. Taking Duke Forest as a case study, my collaborators and I explore these intertwined histories by studying classic scientific literature, visiting university and state archives, and reading the landscape itself as an archive. Inspired by Black feminist geographers' theorization of afterlives of the plantation, we investigate land use legacies in both the forest and the science. We received a Duke Provost Grant on Reckoning with Race, Racism, and the American South to develop interpretive signage at the Robeson Mill site of Duke Forest.

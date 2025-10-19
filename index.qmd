@@ -2,7 +2,7 @@
 title: "Anita Simha"
 about:
   template: trestles
-  image: profile-photo.jpg
+  image: img/profile-photo.jpg
 ---
 
 I am a plant community ecologist and postdoctoral researcher at LSU. The theme of my research questions centers on how past events affect populations and communities in the present: how and why do plant communities with different histories of disturbance like fire differ in their responses to a next disturbance? When and how do initial conditions, like the order in which individuals arrive to a community, affect species interactions and their community-level consequences? My work often involves big field and greenhouse studies alongside many stellar undergraduate researchers.
