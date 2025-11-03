@@ -16,7 +16,7 @@ Every project needs a good acronym! Read about some of my ongoing work below.
 ##### Soil communities and understories of longleaf pine: trajectories of recovery and shrubification
 
 ::: column-margin
-![](img/sculptors.png)
+![](img/sculptors-fire.png)
 :::
 
 In my doctoral work, I saw that just a few years of fire suppression resulted in increased woody plant abundance in longleaf pine Sandhills communities. Inspired by this observation, my postdoctoral work focuses on woody plant encroachment in fire-prone savannas and grasslands. From nitrogen-fixing acacias to ectomycorrhizal pines to *Frankia*-associating bayberries, woody encroachers tend to form beneficial rhizosphere relationships. Meanwhile, grasses tend to accumulate self-limiting microbial communities. Using a combination of theoretical modeling, molecular methods, field observations, and a reciprocal transplant experiment, I am investigating the soil microbial drivers of woody plant encroachment in fire-prone longleaf pine ecosystems.
