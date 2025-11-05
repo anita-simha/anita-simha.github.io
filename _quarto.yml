@@ -14,8 +14,7 @@ website:
   bread-crumbs: false
   page-footer: 
     background: light
-    left: ""
-    center:
+    left: 
       - icon: "{{< iconify academicons:google-scholar >}}"
         href: "https://scholar.google.com/citations?user=4y2-7_kAAAAJ&hl=en"
 
